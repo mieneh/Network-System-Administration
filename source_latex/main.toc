@@ -1,0 +1,25 @@
+\contentsline {chapter}{\numberline {1}Lý thuyết}{5}{}%
+\contentsline {section}{\numberline {1}Các khái niệm}{5}{}%
+\contentsline {section}{\numberline {2}Tính năng}{6}{}%
+\contentsline {section}{\numberline {3}Cách thức hoạt động}{6}{}%
+\contentsline {section}{\numberline {4}Tầm quan trọng}{8}{}%
+\contentsline {chapter}{\numberline {2}Thực hành}{10}{}%
+\contentsline {section}{\numberline {1}Nội dung}{10}{}%
+\contentsline {section}{\numberline {2}Thực hành trên GUI}{12}{}%
+\contentsline {subsection}{\numberline {2.1}Cài đặt Active Directory Domain}{12}{}%
+\contentsline {subsubsection}{Join Server vào domain}{21}{}%
+\contentsline {subsubsection}{Join PC1 vào domain}{24}{}%
+\contentsline {subsection}{\numberline {2.2}Cài Active Directory Certificate Services}{27}{}%
+\contentsline {subsubsection}{Xin SSL Certificate cho Web Server}{40}{}%
+\contentsline {subsubsection}{Thiết lập tên miền DNS và HTTPS Site}{48}{}%
+\contentsline {subsection}{\numberline {2.3}Kiểm tra}{50}{}%
+\contentsline {section}{\numberline {3}Thực hành trên PowerShell}{51}{}%
+\contentsline {subsection}{\numberline {3.1}Cài đặt Active Directory Domain Controller}{51}{}%
+\contentsline {subsubsection}{Join FIT-WEB vào domain}{55}{}%
+\contentsline {subsubsection}{Join máy FIT-WIN08-01 vào domain}{57}{}%
+\contentsline {subsection}{\numberline {3.2}Cài Active Directory Certificate Services role}{58}{}%
+\contentsline {subsubsection}{Cấu hình web server (IIS)}{58}{}%
+\contentsline {subsubsection}{Cấu hình Active Directory Certificate Services}{59}{}%
+\contentsline {subsubsection}{Tạo Https cho Website}{66}{}%
+\contentsline {subsection}{\numberline {3.3}Kiểm tra}{66}{}%
+\contentsline {chapter}{\numberline {3}Kết luận}{70}{}%

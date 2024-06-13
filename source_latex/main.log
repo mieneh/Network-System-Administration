@@ -1,0 +1,1979 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.24)  30 NOV 2023 23:15
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./main.tex
+(main.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(C:\Program Files\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Program Files\MiKTeX\tex/latex/vntex\vietnam.sty
+Package: vietnam 2009/07/12 v1.3 support for Vietnamese
+
+(C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+
+(C:\Program Files\MiKTeX\tex/latex/vntex\t5enc.def
+File: t5enc.def 2006/11/21 v1.4 Vietnamese T5 encoding
+Now handling font encoding T5 ...
+... processing UTF-8 mapping file for font encoding T5
+
+(C:\Program Files\MiKTeX\tex/latex/vntex\t5enc.dfu
+File: t5enc.dfu 2006/08/19 v1.1 UTF8 support for Vietnamese
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+01A0 (decimal 416)
+   defining Unicode char U+01A1 (decimal 417)
+   defining Unicode char U+01AF (decimal 431)
+   defining Unicode char U+01B0 (decimal 432)
+   defining Unicode char U+1EA0 (decimal 7840)
+   defining Unicode char U+1EA1 (decimal 7841)
+   defining Unicode char U+1EA2 (decimal 7842)
+   defining Unicode char U+1EA3 (decimal 7843)
+   defining Unicode char U+1EA4 (decimal 7844)
+   defining Unicode char U+1EA5 (decimal 7845)
+   defining Unicode char U+1EA6 (decimal 7846)
+   defining Unicode char U+1EA7 (decimal 7847)
+   defining Unicode char U+1EA8 (decimal 7848)
+   defining Unicode char U+1EA9 (decimal 7849)
+   defining Unicode char U+1EAA (decimal 7850)
+   defining Unicode char U+1EAB (decimal 7851)
+   defining Unicode char U+1EAC (decimal 7852)
+   defining Unicode char U+1EAD (decimal 7853)
+   defining Unicode char U+1EAE (decimal 7854)
+   defining Unicode char U+1EAF (decimal 7855)
+   defining Unicode char U+1EB0 (decimal 7856)
+   defining Unicode char U+1EB1 (decimal 7857)
+   defining Unicode char U+1EB2 (decimal 7858)
+   defining Unicode char U+1EB3 (decimal 7859)
+   defining Unicode char U+1EB4 (decimal 7860)
+   defining Unicode char U+1EB5 (decimal 7861)
+   defining Unicode char U+1EB6 (decimal 7862)
+   defining Unicode char U+1EB7 (decimal 7863)
+   defining Unicode char U+1EB8 (decimal 7864)
+   defining Unicode char U+1EB9 (decimal 7865)
+   defining Unicode char U+1EBA (decimal 7866)
+   defining Unicode char U+1EBB (decimal 7867)
+   defining Unicode char U+1EBC (decimal 7868)
+   defining Unicode char U+1EBD (decimal 7869)
+   defining Unicode char U+1EBE (decimal 7870)
+   defining Unicode char U+1EBF (decimal 7871)
+   defining Unicode char U+1EC0 (decimal 7872)
+   defining Unicode char U+1EC1 (decimal 7873)
+   defining Unicode char U+1EC2 (decimal 7874)
+   defining Unicode char U+1EC3 (decimal 7875)
+   defining Unicode char U+1EC4 (decimal 7876)
+   defining Unicode char U+1EC5 (decimal 7877)
+   defining Unicode char U+1EC6 (decimal 7878)
+   defining Unicode char U+1EC7 (decimal 7879)
+   defining Unicode char U+1EC8 (decimal 7880)
+   defining Unicode char U+1EC9 (decimal 7881)
+   defining Unicode char U+1ECA (decimal 7882)
+   defining Unicode char U+1ECB (decimal 7883)
+   defining Unicode char U+1ECC (decimal 7884)
+   defining Unicode char U+1ECD (decimal 7885)
+   defining Unicode char U+1ECE (decimal 7886)
+   defining Unicode char U+1ECF (decimal 7887)
+   defining Unicode char U+1ED0 (decimal 7888)
+   defining Unicode char U+1ED1 (decimal 7889)
+   defining Unicode char U+1ED2 (decimal 7890)
+   defining Unicode char U+1ED3 (decimal 7891)
+   defining Unicode char U+1ED4 (decimal 7892)
+   defining Unicode char U+1ED5 (decimal 7893)
+   defining Unicode char U+1ED6 (decimal 7894)
+   defining Unicode char U+1ED7 (decimal 7895)
+   defining Unicode char U+1ED8 (decimal 7896)
+   defining Unicode char U+1ED9 (decimal 7897)
+   defining Unicode char U+1EDA (decimal 7898)
+   defining Unicode char U+1EDB (decimal 7899)
+   defining Unicode char U+1EDC (decimal 7900)
+   defining Unicode char U+1EDD (decimal 7901)
+   defining Unicode char U+1EDE (decimal 7902)
+   defining Unicode char U+1EDF (decimal 7903)
+   defining Unicode char U+1EE0 (decimal 7904)
+   defining Unicode char U+1EE1 (decimal 7905)
+   defining Unicode char U+1EE2 (decimal 7906)
+   defining Unicode char U+1EE3 (decimal 7907)
+   defining Unicode char U+1EE4 (decimal 7908)
+   defining Unicode char U+1EE5 (decimal 7909)
+   defining Unicode char U+1EE6 (decimal 7910)
+   defining Unicode char U+1EE7 (decimal 7911)
+   defining Unicode char U+1EE8 (decimal 7912)
+   defining Unicode char U+1EE9 (decimal 7913)
+   defining Unicode char U+1EEA (decimal 7914)
+   defining Unicode char U+1EEB (decimal 7915)
+   defining Unicode char U+1EEC (decimal 7916)
+   defining Unicode char U+1EED (decimal 7917)
+   defining Unicode char U+1EEE (decimal 7918)
+   defining Unicode char U+1EEF (decimal 7919)
+   defining Unicode char U+1EF0 (decimal 7920)
+   defining Unicode char U+1EF1 (decimal 7921)
+   defining Unicode char U+1EF2 (decimal 7922)
+   defining Unicode char U+1EF3 (decimal 7923)
+   defining Unicode char U+1EF4 (decimal 7924)
+   defining Unicode char U+1EF5 (decimal 7925)
+   defining Unicode char U+1EF6 (decimal 7926)
+   defining Unicode char U+1EF7 (decimal 7927)
+   defining Unicode char U+1EF8 (decimal 7928)
+   defining Unicode char U+1EF9 (decimal 7929)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+))
+LaTeX Font Info:    Trying to load font information for T5+cmr on input line 11
+2.
+
+(C:\Program Files\MiKTeX\tex/latex/vntex\t5cmr.fd
+File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+))
+(C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Program Files\MiKTeX\tex/latex/vntex\vncaps.tex
+File: vncaps.tex 2006/06/07 v1.1 Captions in Vietnamese
+))
+(C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks20
+
+(C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+)
+(C:\Program Files\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+
+(C:\Program Files\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen149
+\ar@mcellbox=\box51
+\extrarowheight=\dimen150
+\NC@list=\toks21
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box52
+)
+\everycr=\toks22
+\minrowclearance=\skip52
+\rownum=\count197
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+)
+(C:\Program Files\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip53
+\aftertitleunit=\skip54
+\ttl@plus=\dimen153
+\ttl@minus=\dimen154
+\ttl@toksa=\toks23
+\titlewidth=\dimen155
+\titlewidthlast=\dimen156
+\titlewidthfirst=\dimen157
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip55
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks24
+\ex@=\dimen158
+))
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen159
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count198
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count199
+\leftroot@=\count266
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count267
+\DOTSCASE@=\count268
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen160
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count269
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count270
+\dotsspace@=\muskip16
+\c@parentequation=\count271
+\dspbrk@lvl=\count272
+\tag@help=\toks25
+\row@=\count273
+\column@=\count274
+\maxfields@=\count275
+\andhelp@=\toks26
+\eqnshift@=\dimen161
+\alignsep@=\dimen162
+\tagshift@=\dimen163
+\tagwidth@=\dimen164
+\totwidth@=\dimen165
+\lineht@=\dimen166
+\@envbody=\toks27
+\multlinegap=\skip56
+\multlinetaggap=\skip57
+\mathdisplay@stack=\toks28
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Program Files\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip58
+\f@nch@O@elh=\skip59
+\f@nch@O@erh=\skip60
+\f@nch@O@olh=\skip61
+\f@nch@O@orh=\skip62
+\f@nch@O@elf=\skip63
+\f@nch@O@erf=\skip64
+\f@nch@O@olf=\skip65
+\f@nch@O@orf=\skip66
+)
+(C:\Program Files\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen167
+\captionmargin=\dimen168
+\caption@leftmargin=\dimen169
+\caption@rightmargin=\dimen170
+\caption@width=\dimen171
+\caption@indent=\dimen172
+\caption@parindent=\dimen173
+\caption@hangindent=\dimen174
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count276
+\c@continuedfloat=\count277
+)
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count278
+\l__pdf_internal_box=\box56
+)
+
+LaTeX Warning: Unused global option(s):
+    [13pt].
+
+(main.aux
+
+LaTeX Warning: Label `refhinh1' multiply defined.
+
+
+LaTeX Warning: Label `refhinh1' multiply defined.
+
+
+LaTeX Warning: Label `refhinh1' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78299pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04675pt
+* \textwidth=455.24411pt
+* \textheight=702.78299pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count279
+\scratchdimen=\dimen175
+\scratchbox=\box57
+\nofMPsegments=\count280
+\nofMParguments=\count281
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count282
+\MPscratchDim=\dimen176
+\MPnumerator=\count283
+\makeMPintoPDFobject=\count284
+\everyMPtoPDFconversion=\toks30
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+<image/logo.png, id=1, 299.61937pt x 155.07938pt>
+File: image/logo.png Graphic file (type png)
+<use image/logo.png>
+Package pdftex.def Info: image/logo.png  used on input line 41.
+(pdftex.def)             Requested size: 227.62206pt x 117.81657pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[1{C:/Users/Mie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+ <./image/logo.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 77--79
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[2]
+Overfull \hbox (3.866pt too wide) in paragraph at lines 98--106
+\T5/cmr/m/n/16 ................................................................
+................................................ 
+ []
+
+
+Overfull \hbox (3.866pt too wide) in paragraph at lines 98--106
+\T5/cmr/m/n/16 ................................................................
+................................................ 
+ []
+
+
+Overfull \hbox (3.866pt too wide) in paragraph at lines 98--106
+\T5/cmr/m/n/16 ................................................................
+................................................ 
+ []
+
+
+Overfull \hbox (3.866pt too wide) in paragraph at lines 98--106
+\T5/cmr/m/n/16 ................................................................
+................................................ 
+ []
+
+
+Overfull \hbox (3.866pt too wide) in paragraph at lines 98--106
+\T5/cmr/m/n/16 ................................................................
+................................................ 
+ []
+
+
+Overfull \hbox (3.866pt too wide) in paragraph at lines 98--106
+\T5/cmr/m/n/16 ................................................................
+................................................ 
+ []
+
+
+Overfull \hbox (3.866pt too wide) in paragraph at lines 98--106
+\T5/cmr/m/n/16 ................................................................
+................................................ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--106
+
+ []
+
+
+Overfull \hbox (3.866pt too wide) in paragraph at lines 111--119
+\T5/cmr/m/n/16 ................................................................
+................................................ 
+ []
+
+
+Overfull \hbox (3.866pt too wide) in paragraph at lines 111--119
+\T5/cmr/m/n/16 ................................................................
+................................................ 
+ []
+
+
+Overfull \hbox (3.866pt too wide) in paragraph at lines 111--119
+\T5/cmr/m/n/16 ................................................................
+................................................ 
+ []
+
+
+Overfull \hbox (3.866pt too wide) in paragraph at lines 111--119
+\T5/cmr/m/n/16 ................................................................
+................................................ 
+ []
+
+
+Overfull \hbox (3.866pt too wide) in paragraph at lines 111--119
+\T5/cmr/m/n/16 ................................................................
+................................................ 
+ []
+
+
+Overfull \hbox (3.866pt too wide) in paragraph at lines 111--119
+\T5/cmr/m/n/16 ................................................................
+................................................ 
+ []
+
+
+Overfull \hbox (3.866pt too wide) in paragraph at lines 111--119
+\T5/cmr/m/n/16 ................................................................
+................................................ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--119
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[3] (main.toc
+LaTeX Font Info:    Calculating math sizes for size <16> on input line 2.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 2.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <16> not available
+(Font)              size <17.28> substituted on input line 2.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 2.
+
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 2.
+
+)
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+ [4
+
+]
+Ch\uhorn \ohorn ng 1.
+
+LaTeX Font Warning: Font shape `TS1/cmr/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 130.
+
+[5
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[6]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[7]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[8]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[9]
+Ch\uhorn \ohorn ng 2.
+<image/mohinh.png, id=48, 472.76625pt x 478.78876pt>
+File: image/mohinh.png Graphic file (type png)
+<use image/mohinh.png>
+Package pdftex.def Info: image/mohinh.png  used on input line 206.
+(pdftex.def)             Requested size: 318.66948pt x 322.73743pt.
+[10
+
+ <./image/mohinh.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[11]
+<image/Gui/ADDC/0.png, id=57, 296.60812pt x 347.79938pt>
+File: image/Gui/ADDC/0.png Graphic file (type png)
+<use image/Gui/ADDC/0.png>
+Package pdftex.def Info: image/Gui/ADDC/0.png  used on input line 235.
+(pdftex.def)             Requested size: 318.66948pt x 373.68068pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[12 <./image/Gui/ADDC/0.png>]
+<image/Gui/ADDC/2.png, id=64, 593.96906pt x 426.84468pt>
+File: image/Gui/ADDC/2.png Graphic file (type png)
+<use image/Gui/ADDC/2.png>
+Package pdftex.def Info: image/Gui/ADDC/2.png  used on input line 244.
+(pdftex.def)             Requested size: 327.7763pt x 235.5599pt.
+<image/Gui/ADDC/3.png, id=65, 592.46344pt x 420.82219pt>
+File: image/Gui/ADDC/3.png Graphic file (type png)
+<use image/Gui/ADDC/3.png>
+Package pdftex.def Info: image/Gui/ADDC/3.png  used on input line 251.
+(pdftex.def)             Requested size: 327.7763pt x 232.82063pt.
+
+Overfull \hbox (9.13058pt too wide) in paragraph at lines 248--255
+[]\T5/cmr/m/n/16 Xu§t hi»n cûa sê Se-lect In-stal-la-tion Type, chån Role-based
+ or feature-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[13 <./image/Gui/ADDC/2.png> <./image/Gui/ADDC/3.png>]
+<image/Gui/ADDC/4.png, id=71, 593.21625pt x 424.58624pt>
+File: image/Gui/ADDC/4.png Graphic file (type png)
+<use image/Gui/ADDC/4.png>
+Package pdftex.def Info: image/Gui/ADDC/4.png  used on input line 259.
+(pdftex.def)             Requested size: 318.66948pt x 228.08755pt.
+<image/Gui/ADDC/5.png, id=72, 590.95781pt x 423.08063pt>
+File: image/Gui/ADDC/5.png Graphic file (type png)
+<use image/Gui/ADDC/5.png>
+Package pdftex.def Info: image/Gui/ADDC/5.png  used on input line 265.
+(pdftex.def)             Requested size: 318.66948pt x 228.15025pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[14 <./image/Gui/ADDC/4.png> <./image/Gui/ADDC/5.png>]
+<image/Gui/ADDC/6.png, id=78, 316.93407pt x 330.48468pt>
+File: image/Gui/ADDC/6.png Graphic file (type png)
+<use image/Gui/ADDC/6.png>
+Package pdftex.def Info: image/Gui/ADDC/6.png  used on input line 272.
+(pdftex.def)             Requested size: 227.62206pt x 237.35878pt.
+<image/Gui/ADDC/7.png, id=79, 596.2275pt x 423.83344pt>
+File: image/Gui/ADDC/7.png Graphic file (type png)
+<use image/Gui/ADDC/7.png>
+Package pdftex.def Info: image/Gui/ADDC/7.png  used on input line 278.
+(pdftex.def)             Requested size: 318.66948pt x 226.52551pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[15 <./image/Gui/ADDC/6.png> <./image/Gui/ADDC/7.png>]
+<image/Gui/ADDC/8.png, id=85, 594.72188pt x 422.32782pt>
+File: image/Gui/ADDC/8.png Graphic file (type png)
+<use image/Gui/ADDC/8.png>
+Package pdftex.def Info: image/Gui/ADDC/8.png  used on input line 285.
+(pdftex.def)             Requested size: 318.66948pt x 226.29436pt.
+<image/Gui/ADDC/9.png, id=86, 591.71063pt x 423.08063pt>
+File: image/Gui/ADDC/9.png Graphic file (type png)
+<use image/Gui/ADDC/9.png>
+Package pdftex.def Info: image/Gui/ADDC/9.png  used on input line 291.
+(pdftex.def)             Requested size: 318.66948pt x 227.85976pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[16 <./image/Gui/ADDC/8.png> <./image/Gui/ADDC/9.png>]
+<image/Gui/ADDC/10.png, id=92, 592.46344pt x 424.58624pt>
+File: image/Gui/ADDC/10.png Graphic file (type png)
+<use image/Gui/ADDC/10.png>
+Package pdftex.def Info: image/Gui/ADDC/10.png  used on input line 297.
+(pdftex.def)             Requested size: 318.66948pt x 228.3791pt.
+<image/Gui/ADDC/11.png, id=93, 572.89032pt x 420.06938pt>
+File: image/Gui/ADDC/11.png Graphic file (type png)
+<use image/Gui/ADDC/11.png>
+Package pdftex.def Info: image/Gui/ADDC/11.png  used on input line 303.
+(pdftex.def)             Requested size: 318.66948pt x 233.66687pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[17 <./image/Gui/ADDC/10.png> <./image/Gui/ADDC/11.png>]
+<image/Gui/ADDC/12.png, id=99, 572.1375pt x 425.33907pt>
+File: image/Gui/ADDC/12.png Graphic file (type png)
+<use image/Gui/ADDC/12.png>
+Package pdftex.def Info: image/Gui/ADDC/12.png  used on input line 310.
+(pdftex.def)             Requested size: 318.66948pt x 236.90968pt.
+<image/Gui/ADDC/13.png, id=100, 570.63188pt x 422.32782pt>
+File: image/Gui/ADDC/13.png Graphic file (type png)
+<use image/Gui/ADDC/13.png>
+Package pdftex.def Info: image/Gui/ADDC/13.png  used on input line 316.
+(pdftex.def)             Requested size: 305.01271pt x 225.74016pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[18 <./image/Gui/ADDC/12.png> <./image/Gui/ADDC/13.png>]
+<image/Gui/ADDC/14.png, id=107, 572.89032pt x 420.82219pt>
+File: image/Gui/ADDC/14.png Graphic file (type png)
+<use image/Gui/ADDC/14.png>
+Package pdftex.def Info: image/Gui/ADDC/14.png  used on input line 323.
+(pdftex.def)             Requested size: 318.66948pt x 234.08562pt.
+<image/Gui/ADDC/15.png, id=108, 575.90157pt x 421.575pt>
+File: image/Gui/ADDC/15.png Graphic file (type png)
+<use image/Gui/ADDC/15.png>
+Package pdftex.def Info: image/Gui/ADDC/15.png  used on input line 329.
+(pdftex.def)             Requested size: 318.66948pt x 233.28215pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[19 <./image/Gui/ADDC/14.png> <./image/Gui/ADDC/15.png>]
+<image/Gui/ADDC/16.png, id=114, 572.89032pt x 423.08063pt>
+File: image/Gui/ADDC/16.png Graphic file (type png)
+<use image/Gui/ADDC/16.png>
+Package pdftex.def Info: image/Gui/ADDC/16.png  used on input line 336.
+(pdftex.def)             Requested size: 318.66948pt x 235.34189pt.
+<image/Gui/ADDC/17.png, id=115, 573.64313pt x 421.575pt>
+File: image/Gui/ADDC/17.png Graphic file (type png)
+<use image/Gui/ADDC/17.png>
+Package pdftex.def Info: image/Gui/ADDC/17.png  used on input line 342.
+(pdftex.def)             Requested size: 318.66948pt x 234.1956pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[20 <./image/Gui/ADDC/16.png> <./image/Gui/ADDC/17.png>]
+<image/Gui/ADDC/18.png, id=121, 571.38469pt x 423.83344pt>
+File: image/Gui/ADDC/18.png Graphic file (type png)
+<use image/Gui/ADDC/18.png>
+Package pdftex.def Info: image/Gui/ADDC/18.png  used on input line 349.
+(pdftex.def)             Requested size: 318.66948pt x 236.37502pt.
+<image/Gui/FIT-WEB/1.png, id=122, 298.86656pt x 344.03531pt>
+File: image/Gui/FIT-WEB/1.png Graphic file (type png)
+<use image/Gui/FIT-WEB/1.png>
+Package pdftex.def Info: image/Gui/FIT-WEB/1.png  used on input line 358.
+(pdftex.def)             Requested size: 204.85846pt x 235.82025pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[21 <./image/Gui/ADDC/18.png> <./image/Gui/FIT-WEB/1.png>]
+<image/Gui/FIT-WEB/2.png, id=128, 734.745pt x 387.69844pt>
+File: image/Gui/FIT-WEB/2.png Graphic file (type png)
+<use image/Gui/FIT-WEB/2.png>
+Package pdftex.def Info: image/Gui/FIT-WEB/2.png  used on input line 365.
+(pdftex.def)             Requested size: 318.66948pt x 168.15053pt.
+<image/Gui/FIT-WEB/3.png, id=129, 307.1475pt x 353.06906pt>
+File: image/Gui/FIT-WEB/3.png Graphic file (type png)
+<use image/Gui/FIT-WEB/3.png>
+Package pdftex.def Info: image/Gui/FIT-WEB/3.png  used on input line 371.
+(pdftex.def)             Requested size: 264.0424pt x 303.5365pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[22 <./image/Gui/FIT-WEB/2.png> <./image/Gui/FIT-WEB/3.png>]
+<image/Gui/FIT-WEB/4.png, id=135, 302.63063pt x 352.31625pt>
+File: image/Gui/FIT-WEB/4.png Graphic file (type png)
+<use image/Gui/FIT-WEB/4.png>
+Package pdftex.def Info: image/Gui/FIT-WEB/4.png  used on input line 378.
+(pdftex.def)             Requested size: 254.93558pt x 296.79301pt.
+<image/Gui/FIT-WEB/5.png, id=136, 344.78813pt x 227.34938pt>
+File: image/Gui/FIT-WEB/5.png Graphic file (type png)
+<use image/Gui/FIT-WEB/5.png>
+Package pdftex.def Info: image/Gui/FIT-WEB/5.png  used on input line 384.
+(pdftex.def)             Requested size: 254.93558pt x 168.10406pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[23 <./image/Gui/FIT-WEB/4.png> <./image/Gui/FIT-WEB/5.png>]
+<image/Gui/FIT-WEB/6.png, id=142, 216.05719pt x 114.4275pt>
+File: image/Gui/FIT-WEB/6.png Graphic file (type png)
+<use image/Gui/FIT-WEB/6.png>
+Package pdftex.def Info: image/Gui/FIT-WEB/6.png  used on input line 391.
+(pdftex.def)             Requested size: 227.62206pt x 120.55748pt.
+<image/Gui/FIT-PC/1.png, id=143, 313.17pt x 351.56343pt>
+File: image/Gui/FIT-PC/1.png Graphic file (type png)
+<use image/Gui/FIT-PC/1.png>
+Package pdftex.def Info: image/Gui/FIT-PC/1.png  used on input line 400.
+(pdftex.def)             Requested size: 273.14923pt x 306.64627pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[24 <./image/Gui/FIT-WEB/6.png> <./image/Gui/FIT-PC/1.png>]
+<image/Gui/FIT-PC/2.png, id=150, 323.70938pt x 360.59718pt>
+File: image/Gui/FIT-PC/2.png Graphic file (type png)
+<use image/Gui/FIT-PC/2.png>
+Package pdftex.def Info: image/Gui/FIT-PC/2.png  used on input line 406.
+(pdftex.def)             Requested size: 204.85846pt x 228.20634pt.
+<image/Gui/FIT-PC/3.png, id=151, 255.20343pt x 300.3722pt>
+File: image/Gui/FIT-PC/3.png Graphic file (type png)
+<use image/Gui/FIT-PC/3.png>
+Package pdftex.def Info: image/Gui/FIT-PC/3.png  used on input line 412.
+(pdftex.def)             Requested size: 204.85846pt x 241.12764pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[25 <./image/Gui/FIT-PC/2.png> <./image/Gui/FIT-PC/3.png>]
+<image/Gui/FIT-PC/4.png, id=157, 332.74312pt x 236.38312pt>
+File: image/Gui/FIT-PC/4.png Graphic file (type png)
+<use image/Gui/FIT-PC/4.png>
+Package pdftex.def Info: image/Gui/FIT-PC/4.png  used on input line 418.
+(pdftex.def)             Requested size: 318.66948pt x 226.3986pt.
+<image/Gui/FIT-PC/5.png, id=158, 240.14719pt x 126.4725pt>
+File: image/Gui/FIT-PC/5.png Graphic file (type png)
+<use image/Gui/FIT-PC/5.png>
+Package pdftex.def Info: image/Gui/FIT-PC/5.png  used on input line 424.
+(pdftex.def)             Requested size: 318.66948pt x 167.83963pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[26 <./image/Gui/FIT-PC/4.png> <./image/Gui/FIT-PC/5.png>]
+<image/Gui/ADCS/0.png, id=164, 770.12718pt x 591.71063pt>
+File: image/Gui/ADCS/0.png Graphic file (type png)
+<use image/Gui/ADCS/0.png>
+Package pdftex.def Info: image/Gui/ADCS/0.png  used on input line 434.
+(pdftex.def)             Requested size: 273.14923pt x 209.86462pt.
+<image/Gui/ADCS/2.png, id=165, 592.46344pt x 420.82219pt>
+File: image/Gui/ADCS/2.png Graphic file (type png)
+<use image/Gui/ADCS/2.png>
+Package pdftex.def Info: image/Gui/ADCS/2.png  used on input line 441.
+(pdftex.def)             Requested size: 318.66948pt x 226.35446pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[27 <./image/Gui/ADCS/0.png> <./image/Gui/ADCS/2.png>]
+<image/Gui/ADCS/3.png, id=171, 593.21625pt x 422.32782pt>
+File: image/Gui/ADCS/3.png Graphic file (type png)
+<use image/Gui/ADCS/3.png>
+Package pdftex.def Info: image/Gui/ADCS/3.png  used on input line 448.
+(pdftex.def)             Requested size: 318.66948pt x 226.87433pt.
+<image/Gui/ADCS/4.png, id=172, 590.95781pt x 420.06938pt>
+File: image/Gui/ADCS/4.png Graphic file (type png)
+<use image/Gui/ADCS/4.png>
+Package pdftex.def Info: image/Gui/ADCS/4.png  used on input line 454.
+(pdftex.def)             Requested size: 318.66948pt x 226.52641pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[28 <./image/Gui/ADCS/3.png> <./image/Gui/ADCS/4.png>]
+<image/Gui/ADCS/6.png, id=178, 593.96906pt x 422.32782pt>
+File: image/Gui/ADCS/6.png Graphic file (type png)
+<use image/Gui/ADCS/6.png>
+Package pdftex.def Info: image/Gui/ADCS/6.png  used on input line 461.
+(pdftex.def)             Requested size: 318.66948pt x 226.59079pt.
+<image/Gui/ADCS/5.png, id=179, 313.17pt x 330.48468pt>
+File: image/Gui/ADCS/5.png Graphic file (type png)
+<use image/Gui/ADCS/5.png>
+Package pdftex.def Info: image/Gui/ADCS/5.png  used on input line 467.
+(pdftex.def)             Requested size: 227.62206pt x 240.213pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[29 <./image/Gui/ADCS/6.png> <./image/Gui/ADCS/5.png>]
+<image/Gui/ADCS/7.png, id=185, 590.205pt x 418.56375pt>
+File: image/Gui/ADCS/7.png Graphic file (type png)
+<use image/Gui/ADCS/7.png>
+Package pdftex.def Info: image/Gui/ADCS/7.png  used on input line 474.
+(pdftex.def)             Requested size: 318.66948pt x 225.9955pt.
+<image/Gui/ADCS/8.png, id=186, 593.21625pt x 423.08063pt>
+File: image/Gui/ADCS/8.png Graphic file (type png)
+<use image/Gui/ADCS/8.png>
+Package pdftex.def Info: image/Gui/ADCS/8.png  used on input line 480.
+(pdftex.def)             Requested size: 318.66948pt x 227.27875pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[30 <./image/Gui/ADCS/7.png> <./image/Gui/ADCS/8.png>]
+<image/Gui/ADCS/9.png, id=193, 594.72188pt x 422.32782pt>
+File: image/Gui/ADCS/9.png Graphic file (type png)
+<use image/Gui/ADCS/9.png>
+Package pdftex.def Info: image/Gui/ADCS/9.png  used on input line 487.
+(pdftex.def)             Requested size: 318.66948pt x 226.29436pt.
+<image/Gui/ADCS/10.png, id=194, 591.71063pt x 421.575pt>
+File: image/Gui/ADCS/10.png Graphic file (type png)
+<use image/Gui/ADCS/10.png>
+Package pdftex.def Info: image/Gui/ADCS/10.png  used on input line 493.
+(pdftex.def)             Requested size: 318.66948pt x 227.04886pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[31 <./image/Gui/ADCS/9.png> <./image/Gui/ADCS/10.png>]
+<image/Gui/ADCS/11.png, id=200, 590.95781pt x 422.32782pt>
+File: image/Gui/ADCS/11.png Graphic file (type png)
+<use image/Gui/ADCS/11.png>
+Package pdftex.def Info: image/Gui/ADCS/11.png  used on input line 500.
+(pdftex.def)             Requested size: 318.66948pt x 227.7443pt.
+<image/Gui/ADCS/12.png, id=201, 592.46344pt x 423.08063pt>
+File: image/Gui/ADCS/12.png Graphic file (type png)
+<use image/Gui/ADCS/12.png>
+Package pdftex.def Info: image/Gui/ADCS/12.png  used on input line 506.
+(pdftex.def)             Requested size: 318.66948pt x 227.56924pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[32 <./image/Gui/ADCS/11.png> <./image/Gui/ADCS/12.png>]
+<image/Gui/ADCS/13.png, id=207, 592.46344pt x 419.31656pt>
+File: image/Gui/ADCS/13.png Graphic file (type png)
+<use image/Gui/ADCS/13.png>
+Package pdftex.def Info: image/Gui/ADCS/13.png  used on input line 513.
+(pdftex.def)             Requested size: 318.66948pt x 225.5446pt.
+<image/Gui/ADCS/14.png, id=208, 572.89032pt x 422.32782pt>
+File: image/Gui/ADCS/14.png Graphic file (type png)
+<use image/Gui/ADCS/14.png>
+Package pdftex.def Info: image/Gui/ADCS/14.png  used on input line 519.
+(pdftex.def)             Requested size: 318.66948pt x 234.92313pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[33 <./image/Gui/ADCS/13.png> <./image/Gui/ADCS/14.png>]
+<image/Gui/ADCS/15.png, id=214, 569.87906pt x 421.575pt>
+File: image/Gui/ADCS/15.png Graphic file (type png)
+<use image/Gui/ADCS/15.png>
+Package pdftex.def Info: image/Gui/ADCS/15.png  used on input line 526.
+(pdftex.def)             Requested size: 318.66948pt x 235.73944pt.
+<image/Gui/ADCS/16.png, id=215, 574.39594pt x 426.09187pt>
+File: image/Gui/ADCS/16.png Graphic file (type png)
+<use image/Gui/ADCS/16.png>
+Package pdftex.def Info: image/Gui/ADCS/16.png  used on input line 532.
+(pdftex.def)             Requested size: 318.66948pt x 236.39926pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[34 <./image/Gui/ADCS/15.png> <./image/Gui/ADCS/16.png>]
+<image/Gui/ADCS/17.png, id=221, 573.64313pt x 419.31656pt>
+File: image/Gui/ADCS/17.png Graphic file (type png)
+<use image/Gui/ADCS/17.png>
+Package pdftex.def Info: image/Gui/ADCS/17.png  used on input line 539.
+(pdftex.def)             Requested size: 318.66948pt x 232.94098pt.
+<image/Gui/ADCS/18.png, id=222, 574.39594pt x 420.82219pt>
+File: image/Gui/ADCS/18.png Graphic file (type png)
+<use image/Gui/ADCS/18.png>
+Package pdftex.def Info: image/Gui/ADCS/18.png  used on input line 545.
+(pdftex.def)             Requested size: 318.66948pt x 233.4756pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[35 <./image/Gui/ADCS/17.png> <./image/Gui/ADCS/18.png>]
+<image/Gui/ADCS/19.png, id=228, 574.39594pt x 420.82219pt>
+File: image/Gui/ADCS/19.png Graphic file (type png)
+<use image/Gui/ADCS/19.png>
+Package pdftex.def Info: image/Gui/ADCS/19.png  used on input line 552.
+(pdftex.def)             Requested size: 318.66948pt x 233.4756pt.
+<image/Gui/ADCS/20.png, id=229, 569.87906pt x 425.33907pt>
+File: image/Gui/ADCS/20.png Graphic file (type png)
+<use image/Gui/ADCS/20.png>
+Package pdftex.def Info: image/Gui/ADCS/20.png  used on input line 558.
+(pdftex.def)             Requested size: 318.66948pt x 237.84427pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[36 <./image/Gui/ADCS/19.png> <./image/Gui/ADCS/20.png>]
+<image/Gui/ADCS/21.png, id=236, 571.38469pt x 422.32782pt>
+File: image/Gui/ADCS/21.png Graphic file (type png)
+<use image/Gui/ADCS/21.png>
+Package pdftex.def Info: image/Gui/ADCS/21.png  used on input line 565.
+(pdftex.def)             Requested size: 305.01271pt x 225.44373pt.
+<image/Gui/ADCS/22.png, id=237, 572.89032pt x 422.32782pt>
+File: image/Gui/ADCS/22.png Graphic file (type png)
+<use image/Gui/ADCS/22.png>
+Package pdftex.def Info: image/Gui/ADCS/22.png  used on input line 576.
+(pdftex.def)             Requested size: 305.01271pt x 224.85086pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[37 <./image/Gui/ADCS/21.png> <./image/Gui/ADCS/22.png>]
+<image/Gui/ADCS/23.png, id=243, 569.87906pt x 422.32782pt>
+File: image/Gui/ADCS/23.png Graphic file (type png)
+<use image/Gui/ADCS/23.png>
+Package pdftex.def Info: image/Gui/ADCS/23.png  used on input line 583.
+(pdftex.def)             Requested size: 318.66948pt x 236.16042pt.
+<image/Gui/ADCS/24.png, id=244, 569.87906pt x 420.82219pt>
+File: image/Gui/ADCS/24.png Graphic file (type png)
+<use image/Gui/ADCS/24.png>
+Package pdftex.def Info: image/Gui/ADCS/24.png  used on input line 589.
+(pdftex.def)             Requested size: 318.66948pt x 235.31848pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[38 <./image/Gui/ADCS/23.png> <./image/Gui/ADCS/24.png>]
+<image/Gui/ADCS/25.png, id=250, 569.87906pt x 422.32782pt>
+File: image/Gui/ADCS/25.png Graphic file (type png)
+<use image/Gui/ADCS/25.png>
+Package pdftex.def Info: image/Gui/ADCS/25.png  used on input line 596.
+(pdftex.def)             Requested size: 318.66948pt x 236.16042pt.
+<image/Gui/ADCS/26.png, id=251, 575.90157pt x 422.32782pt>
+File: image/Gui/ADCS/26.png Graphic file (type png)
+<use image/Gui/ADCS/26.png>
+Package pdftex.def Info: image/Gui/ADCS/26.png  used on input line 602.
+(pdftex.def)             Requested size: 318.66948pt x 233.69873pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[39 <./image/Gui/ADCS/25.png> <./image/Gui/ADCS/26.png>]
+<image/Gui/ADCS/27.png, id=257, 572.1375pt x 421.575pt>
+File: image/Gui/ADCS/27.png Graphic file (type png)
+<use image/Gui/ADCS/27.png>
+Package pdftex.def Info: image/Gui/ADCS/27.png  used on input line 609.
+(pdftex.def)             Requested size: 273.14923pt x 201.26657pt.
+<image/Gui/SSL/1.png, id=258, 565.36218pt x 387.69844pt>
+File: image/Gui/SSL/1.png Graphic file (type png)
+<use image/Gui/SSL/1.png>
+Package pdftex.def Info: image/Gui/SSL/1.png  used on input line 617.
+(pdftex.def)             Requested size: 273.14923pt x 187.31769pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[40 <./image/Gui/ADCS/27.png> <./image/Gui/SSL/1.png>]
+<image/Gui/SSL/2.png, id=264, 561.59813pt x 390.70969pt>
+File: image/Gui/SSL/2.png Graphic file (type png)
+<use image/Gui/SSL/2.png>
+Package pdftex.def Info: image/Gui/SSL/2.png  used on input line 624.
+(pdftex.def)             Requested size: 318.66948pt x 221.6993pt.
+<image/Gui/SSL/3.png, id=265, 505.89pt x 385.44pt>
+File: image/Gui/SSL/3.png Graphic file (type png)
+<use image/Gui/SSL/3.png>
+Package pdftex.def Info: image/Gui/SSL/3.png  used on input line 630.
+(pdftex.def)             Requested size: 318.66948pt x 242.79907pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[41 <./image/Gui/SSL/2.png> <./image/Gui/SSL/3.png>]
+<image/Gui/SSL/4.png, id=271, 505.13719pt x 392.21532pt>
+File: image/Gui/SSL/4.png Graphic file (type png)
+<use image/Gui/SSL/4.png>
+Package pdftex.def Info: image/Gui/SSL/4.png  used on input line 637.
+(pdftex.def)             Requested size: 295.90588pt x 229.75923pt.
+<image/Gui/SSL/5.png, id=272, 505.13719pt x 386.19281pt>
+File: image/Gui/SSL/5.png Graphic file (type png)
+<use image/Gui/SSL/5.png>
+Package pdftex.def Info: image/Gui/SSL/5.png  used on input line 643.
+(pdftex.def)             Requested size: 295.90588pt x 226.23125pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[42 <./image/Gui/SSL/4.png> <./image/Gui/SSL/5.png>]
+<image/Gui/SSL/6.png, id=279, 570.63188pt x 392.21532pt>
+File: image/Gui/SSL/6.png Graphic file (type png)
+<use image/Gui/SSL/6.png>
+Package pdftex.def Info: image/Gui/SSL/6.png  used on input line 649.
+(pdftex.def)             Requested size: 318.66948pt x 219.03462pt.
+<image/Gui/SSL/7.png, id=280, 638.385pt x 459.96844pt>
+File: image/Gui/SSL/7.png Graphic file (type png)
+<use image/Gui/SSL/7.png>
+Package pdftex.def Info: image/Gui/SSL/7.png  used on input line 655.
+(pdftex.def)             Requested size: 318.66948pt x 229.60464pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[43 <./image/Gui/SSL/6.png> <./image/Gui/SSL/7.png>]
+<image/Gui/SSL/8.png, id=286, 339.51843pt x 268.00125pt>
+File: image/Gui/SSL/8.png Graphic file (type png)
+<use image/Gui/SSL/8.png>
+Package pdftex.def Info: image/Gui/SSL/8.png  used on input line 662.
+(pdftex.def)             Requested size: 295.90588pt x 233.58449pt.
+<image/Gui/SSL/9.png, id=287, 588.69937pt x 457.71pt>
+File: image/Gui/SSL/9.png Graphic file (type png)
+<use image/Gui/SSL/9.png>
+Package pdftex.def Info: image/Gui/SSL/9.png  used on input line 668.
+(pdftex.def)             Requested size: 295.90588pt x 230.06268pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[44 <./image/Gui/SSL/8.png> <./image/Gui/SSL/9.png>]
+<image/Gui/SSL/10.png, id=293, 590.95781pt x 446.41782pt>
+File: image/Gui/SSL/10.png Graphic file (type png)
+<use image/Gui/SSL/10.png>
+Package pdftex.def Info: image/Gui/SSL/10.png  used on input line 675.
+(pdftex.def)             Requested size: 295.90588pt x 223.53532pt.
+<image/Gui/SSL/11.png, id=294, 590.205pt x 450.18187pt>
+File: image/Gui/SSL/11.png Graphic file (type png)
+<use image/Gui/SSL/11.png>
+Package pdftex.def Info: image/Gui/SSL/11.png  used on input line 681.
+(pdftex.def)             Requested size: 295.90588pt x 225.7086pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[45 <./image/Gui/SSL/10.png> <./image/Gui/SSL/11.png>]
+<image/Gui/SSL/12.png, id=300, 593.21625pt x 444.91219pt>
+File: image/Gui/SSL/12.png Graphic file (type png)
+<use image/Gui/SSL/12.png>
+Package pdftex.def Info: image/Gui/SSL/12.png  used on input line 688.
+(pdftex.def)             Requested size: 295.90588pt x 221.93959pt.
+<image/Gui/SSL/13.png, id=301, 583.42969pt x 389.20406pt>
+File: image/Gui/SSL/13.png Graphic file (type png)
+<use image/Gui/SSL/13.png>
+Package pdftex.def Info: image/Gui/SSL/13.png  used on input line 694.
+(pdftex.def)             Requested size: 318.66948pt x 212.59007pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[46 <./image/Gui/SSL/12.png> <./image/Gui/SSL/13.png>]
+<image/Gui/SSL/14.png, id=307, 568.37344pt x 388.45125pt>
+File: image/Gui/SSL/14.png Graphic file (type png)
+<use image/Gui/SSL/14.png>
+Package pdftex.def Info: image/Gui/SSL/14.png  used on input line 701.
+(pdftex.def)             Requested size: 273.14923pt x 186.68564pt.
+<image/Gui/SSL/15.png, id=308, 2409.0pt x 1863.96375pt>
+File: image/Gui/SSL/15.png Graphic file (type png)
+<use image/Gui/SSL/15.png>
+Package pdftex.def Info: image/Gui/SSL/15.png  used on input line 707.
+(pdftex.def)             Requested size: 273.14923pt x 211.35071pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[47 <./image/Gui/SSL/14.png> <./image/Gui/SSL/15.png>]
+<image/Gui/SSL/16.png, id=314, 566.115pt x 389.95688pt>
+File: image/Gui/SSL/16.png Graphic file (type png)
+<use image/Gui/SSL/16.png>
+Package pdftex.def Info: image/Gui/SSL/16.png  used on input line 714.
+(pdftex.def)             Requested size: 318.66948pt x 219.51085pt.
+<image/Gui/DNS.png, id=315, 566.86781pt x 379.4175pt>
+File: image/Gui/DNS.png Graphic file (type png)
+<use image/Gui/DNS.png>
+Package pdftex.def Info: image/Gui/DNS.png  used on input line 723.
+(pdftex.def)             Requested size: 318.66948pt x 213.30023pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[48 <./image/Gui/SSL/16.png> <./image/Gui/DNS.png>]
+<image/Gui/Https01.png, id=322, 563.10374pt x 387.69844pt>
+File: image/Gui/Https01.png Graphic file (type png)
+<use image/Gui/Https01.png>
+Package pdftex.def Info: image/Gui/Https01.png  used on input line 732.
+(pdftex.def)             Requested size: 295.90588pt x 203.73402pt.
+<image/Gui/Https02.png, id=323, 397.485pt x 313.9228pt>
+File: image/Gui/Https02.png Graphic file (type png)
+<use image/Gui/Https02.png>
+Package pdftex.def Info: image/Gui/Https02.png  used on input line 738.
+(pdftex.def)             Requested size: 295.90588pt x 233.70271pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[49 <./image/Gui/Https01.png> <./image/Gui/Https02.png>]
+LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 7
+47.
+
+(C:\Program Files\MiKTeX\tex/latex/vntex\t5cmtt.fd
+File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+<image/Gui/Test/1.png, id=329, 452.3445pt x 260.829pt>
+File: image/Gui/Test/1.png Graphic file (type png)
+<use image/Gui/Test/1.png>
+Package pdftex.def Info: image/Gui/Test/1.png  used on input line 750.
+(pdftex.def)             Requested size: 318.66948pt x 183.76108pt.
+<image/Gui/Test/2.png, id=330, 572.1375pt x 417.81094pt>
+File: image/Gui/Test/2.png Graphic file (type png)
+<use image/Gui/Test/2.png>
+Package pdftex.def Info: image/Gui/Test/2.png  used on input line 756.
+(pdftex.def)             Requested size: 318.66948pt x 232.7166pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[50 <./image/Gui/Test/1.png> <./image/Gui/Test/2.png>]
+<image/PowerShell/ADDC/1.png, id=337, 869.04675pt x 547.44525pt>
+File: image/PowerShell/ADDC/1.png Graphic file (type png)
+<use image/PowerShell/ADDC/1.png>
+Package pdftex.def Info: image/PowerShell/ADDC/1.png  used on input line 767.
+(pdftex.def)             Requested size: 386.96027pt x 243.75854pt.
+<image/PowerShell/ADDC/2.png, id=338, 590.205pt x 308.352pt>
+File: image/PowerShell/ADDC/2.png Graphic file (type png)
+<use image/PowerShell/ADDC/2.png>
+Package pdftex.def Info: image/PowerShell/ADDC/2.png  used on input line 773.
+(pdftex.def)             Requested size: 386.96027pt x 202.172pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[51 <./image/PowerShell/ADDC/1.png> <./image/PowerShell/ADDC/2.png>]
+<image/PowerShell/ADDC/3.png, id=344, 867.24pt x 551.661pt>
+File: image/PowerShell/ADDC/3.png Graphic file (type png)
+<use image/PowerShell/ADDC/3.png>
+Package pdftex.def Info: image/PowerShell/ADDC/3.png  used on input line 780.
+(pdftex.def)             Requested size: 386.96027pt x 246.14915pt.
+<image/PowerShell/ADDC/4.png, id=345, 987.08775pt x 568.524pt>
+File: image/PowerShell/ADDC/4.png Graphic file (type png)
+<use image/PowerShell/ADDC/4.png>
+Package pdftex.def Info: image/PowerShell/ADDC/4.png  used on input line 786.
+(pdftex.def)             Requested size: 386.96027pt x 222.87723pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[52 <./image/PowerShell/ADDC/3.png> <./image/PowerShell/ADDC/4.png>]
+<image/PowerShell/ADDC/5.png, id=351, 985.88326pt x 571.53525pt>
+File: image/PowerShell/ADDC/5.png Graphic file (type png)
+<use image/PowerShell/ADDC/5.png>
+Package pdftex.def Info: image/PowerShell/ADDC/5.png  used on input line 793.
+(pdftex.def)             Requested size: 386.96027pt x 224.32808pt.
+<image/PowerShell/ADDC/6.png, id=352, 988.8945pt x 569.12625pt>
+File: image/PowerShell/ADDC/6.png Graphic file (type png)
+<use image/PowerShell/ADDC/6.png>
+Package pdftex.def Info: image/PowerShell/ADDC/6.png  used on input line 799.
+(pdftex.def)             Requested size: 386.96027pt x 222.70518pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[53 <./image/PowerShell/ADDC/5.png> <./image/PowerShell/ADDC/6.png>]
+<image/PowerShell/ADDC/7.png, id=358, 662.475pt x 387.24675pt>
+File: image/PowerShell/ADDC/7.png Graphic file (type png)
+<use image/PowerShell/ADDC/7.png>
+Package pdftex.def Info: image/PowerShell/ADDC/7.png  used on input line 806.
+(pdftex.def)             Requested size: 386.96027pt x 226.19275pt.
+<image/PowerShell/ADDC/8.png, id=359, 987.08775pt x 568.524pt>
+File: image/PowerShell/ADDC/8.png Graphic file (type png)
+<use image/PowerShell/ADDC/8.png>
+Package pdftex.def Info: image/PowerShell/ADDC/8.png  used on input line 812.
+(pdftex.def)             Requested size: 386.96027pt x 222.87723pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[54 <./image/PowerShell/ADDC/7.png> <./image/PowerShell/ADDC/8.png>]
+<image/PowerShell/FIT-WEB/5.png, id=366, 988.29225pt x 566.71725pt>
+File: image/PowerShell/FIT-WEB/5.png Graphic file (type png)
+<use image/PowerShell/FIT-WEB/5.png>
+Package pdftex.def Info: image/PowerShell/FIT-WEB/5.png  used on input line 822
+.
+(pdftex.def)             Requested size: 386.96027pt x 221.89223pt.
+<image/PowerShell/FIT-WEB/1.png, id=367, 986.4855pt x 567.92175pt>
+File: image/PowerShell/FIT-WEB/1.png Graphic file (type png)
+<use image/PowerShell/FIT-WEB/1.png>
+Package pdftex.def Info: image/PowerShell/FIT-WEB/1.png  used on input line 828
+.
+(pdftex.def)             Requested size: 386.96027pt x 222.77112pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[55 <./image/PowerShell/FIT-WEB/5.png> <./image/PowerShell/FIT-WEB/1.png>]
+<image/PowerShell/FIT-WEB/2.png, id=373, 668.4975pt x 390.86024pt>
+File: image/PowerShell/FIT-WEB/2.png Graphic file (type png)
+<use image/PowerShell/FIT-WEB/2.png>
+Package pdftex.def Info: image/PowerShell/FIT-WEB/2.png  used on input line 835
+.
+(pdftex.def)             Requested size: 386.96027pt x 226.25775pt.
+<image/PowerShell/FIT-WEB/3.png, id=374, 987.69pt x 571.53525pt>
+File: image/PowerShell/FIT-WEB/3.png Graphic file (type png)
+<use image/PowerShell/FIT-WEB/3.png>
+Package pdftex.def Info: image/PowerShell/FIT-WEB/3.png  used on input line 841
+.
+(pdftex.def)             Requested size: 386.96027pt x 223.90947pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[56 <./image/PowerShell/FIT-WEB/2.png> <./image/PowerShell/FIT-WEB/3.png>]
+<image/PowerShell/FIT-WEB/4.png, id=380, 985.88326pt x 568.524pt>
+File: image/PowerShell/FIT-WEB/4.png Graphic file (type png)
+<use image/PowerShell/FIT-WEB/4.png>
+Package pdftex.def Info: image/PowerShell/FIT-WEB/4.png  used on input line 848
+.
+(pdftex.def)             Requested size: 386.96027pt x 223.14616pt.
+
+Overfull \hbox (19.55478pt too wide) in paragraph at lines 854--855
+[]\T5/cmr/m/n/16 C§u h¼nh ^^_àa ch¿ IP cho \T5/cmr/bx/n/16 FIT-WIN08-01 \T5/cmr
+/m/n/16 câ ^^_àa ch¿ ip l  192.168.1.101 
+ []
+
+<image/PowerShell/FIT-WIN08-01/1.png, id=381, 987.69pt x 569.7285pt>
+File: image/PowerShell/FIT-WIN08-01/1.png Graphic file (type png)
+<use image/PowerShell/FIT-WIN08-01/1.png>
+Package pdftex.def Info: image/PowerShell/FIT-WIN08-01/1.png  used on input lin
+e 858.
+(pdftex.def)             Requested size: 386.96027pt x 223.20164pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[57 <./image/PowerShell/FIT-WEB/4.png> <./image/PowerShell/FIT-WIN08-01/1.png>]
+<image/PowerShell/FIT-WIN08-01/2.png, id=387, 985.88326pt x 568.524pt>
+File: image/PowerShell/FIT-WIN08-01/2.png Graphic file (type png)
+<use image/PowerShell/FIT-WIN08-01/2.png>
+Package pdftex.def Info: image/PowerShell/FIT-WIN08-01/2.png  used on input lin
+e 865.
+(pdftex.def)             Requested size: 386.96027pt x 223.14616pt.
+<image/PowerShell/IIS1.png, id=388, 987.69pt x 568.524pt>
+File: image/PowerShell/IIS1.png Graphic file (type png)
+<use image/PowerShell/IIS1.png>
+Package pdftex.def Info: image/PowerShell/IIS1.png  used on input line 875.
+(pdftex.def)             Requested size: 386.96027pt x 222.72977pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[58 <./image/PowerShell/FIT-WIN08-01/2.png> <./image/PowerShell/IIS1.png>]
+<image/PowerShell/IIS2.png, id=394, 985.88326pt x 572.73975pt>
+File: image/PowerShell/IIS2.png Graphic file (type png)
+<use image/PowerShell/IIS2.png>
+Package pdftex.def Info: image/PowerShell/IIS2.png  used on input line 882.
+(pdftex.def)             Requested size: 386.96027pt x 224.80084pt.
+<image/PowerShell/ADCS/1.png, id=395, 988.29225pt x 572.73975pt>
+File: image/PowerShell/ADCS/1.png Graphic file (type png)
+<use image/PowerShell/ADCS/1.png>
+Package pdftex.def Info: image/PowerShell/ADCS/1.png  used on input line 891.
+(pdftex.def)             Requested size: 386.96027pt x 224.25026pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[59 <./image/PowerShell/IIS2.png> <./image/PowerShell/ADCS/1.png>]
+<image/PowerShell/ADCS/2.png, id=401, 987.08775pt x 569.12625pt>
+File: image/PowerShell/ADCS/2.png Graphic file (type png)
+<use image/PowerShell/ADCS/2.png>
+Package pdftex.def Info: image/PowerShell/ADCS/2.png  used on input line 898.
+(pdftex.def)             Requested size: 386.96027pt x 223.11333pt.
+<image/PowerShell/ADCS/3.png, id=402, 986.4855pt x 570.33075pt>
+File: image/PowerShell/ADCS/3.png Graphic file (type png)
+<use image/PowerShell/ADCS/3.png>
+Package pdftex.def Info: image/PowerShell/ADCS/3.png  used on input line 904.
+(pdftex.def)             Requested size: 386.96027pt x 223.71606pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[60 <./image/PowerShell/ADCS/2.png> <./image/PowerShell/ADCS/3.png>]
+<image/PowerShell/ADCS/4.png, id=409, 985.88326pt x 570.933pt>
+File: image/PowerShell/ADCS/4.png Graphic file (type png)
+<use image/PowerShell/ADCS/4.png>
+Package pdftex.def Info: image/PowerShell/ADCS/4.png  used on input line 911.
+(pdftex.def)             Requested size: 386.96027pt x 224.09169pt.
+<image/PowerShell/ADCS/5.png, id=410, 987.08775pt x 569.7285pt>
+File: image/PowerShell/ADCS/5.png Graphic file (type png)
+<use image/PowerShell/ADCS/5.png>
+Package pdftex.def Info: image/PowerShell/ADCS/5.png  used on input line 917.
+(pdftex.def)             Requested size: 386.96027pt x 223.34943pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[61 <./image/PowerShell/ADCS/4.png> <./image/PowerShell/ADCS/5.png>]
+<image/PowerShell/ADCS/6.png, id=416, 987.08775pt x 570.933pt>
+File: image/PowerShell/ADCS/6.png Graphic file (type png)
+<use image/PowerShell/ADCS/6.png>
+Package pdftex.def Info: image/PowerShell/ADCS/6.png  used on input line 924.
+(pdftex.def)             Requested size: 386.96027pt x 223.82162pt.
+<image/PowerShell/ADCS/7.png, id=417, 985.88326pt x 573.342pt>
+File: image/PowerShell/ADCS/7.png Graphic file (type png)
+<use image/PowerShell/ADCS/7.png>
+Package pdftex.def Info: image/PowerShell/ADCS/7.png  used on input line 930.
+(pdftex.def)             Requested size: 386.96027pt x 225.03723pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[62 <./image/PowerShell/ADCS/6.png> <./image/PowerShell/ADCS/7.png>]
+<image/PowerShell/ADCS/8.png, id=423, 987.69pt x 573.342pt>
+File: image/PowerShell/ADCS/8.png Graphic file (type png)
+<use image/PowerShell/ADCS/8.png>
+Package pdftex.def Info: image/PowerShell/ADCS/8.png  used on input line 937.
+(pdftex.def)             Requested size: 386.96027pt x 224.6173pt.
+
+Overfull \hbox (30.6904pt too wide) in paragraph at lines 934--940
+[]\T5/cmr/m/n/16 Chån \T5/cmr/bx/n/16 Sub-mit a cer-tifi-cate re-quest by us-in
+g base-64-encoded..
+ []
+
+<image/PowerShell/ADCS/9.png, id=424, 987.08775pt x 572.73975pt>
+File: image/PowerShell/ADCS/9.png Graphic file (type png)
+<use image/PowerShell/ADCS/9.png>
+Package pdftex.def Info: image/PowerShell/ADCS/9.png  used on input line 943.
+(pdftex.def)             Requested size: 386.96027pt x 224.52992pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[63 <./image/PowerShell/ADCS/8.png> <./image/PowerShell/ADCS/9.png>]
+<image/PowerShell/ADCS/10.png, id=430, 985.88326pt x 569.7285pt>
+File: image/PowerShell/ADCS/10.png Graphic file (type png)
+<use image/PowerShell/ADCS/10.png>
+Package pdftex.def Info: image/PowerShell/ADCS/10.png  used on input line 950.
+(pdftex.def)             Requested size: 386.96027pt x 223.61893pt.
+<image/PowerShell/ADCS/11.png, id=431, 985.88326pt x 570.33075pt>
+File: image/PowerShell/ADCS/11.png Graphic file (type png)
+<use image/PowerShell/ADCS/11.png>
+Package pdftex.def Info: image/PowerShell/ADCS/11.png  used on input line 956.
+(pdftex.def)             Requested size: 386.96027pt x 223.8553pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[64 <./image/PowerShell/ADCS/10.png> <./image/PowerShell/ADCS/11.png>]
+<image/PowerShell/ADCS/12.png, id=437, 986.4855pt x 566.71725pt>
+File: image/PowerShell/ADCS/12.png Graphic file (type png)
+<use image/PowerShell/ADCS/12.png>
+Package pdftex.def Info: image/PowerShell/ADCS/12.png  used on input line 963.
+(pdftex.def)             Requested size: 386.96027pt x 222.29865pt.
+<image/PowerShell/ADCS/13.png, id=438, 988.8945pt x 572.1375pt>
+File: image/PowerShell/ADCS/13.png Graphic file (type png)
+<use image/PowerShell/ADCS/13.png>
+Package pdftex.def Info: image/PowerShell/ADCS/13.png  used on input line 969.
+(pdftex.def)             Requested size: 386.96027pt x 223.88351pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[65 <./image/PowerShell/ADCS/12.png> <./image/PowerShell/ADCS/13.png>]
+<image/PowerShell/Https.png, id=444, 987.69pt x 571.53525pt>
+File: image/PowerShell/Https.png Graphic file (type png)
+<use image/PowerShell/Https.png>
+Package pdftex.def Info: image/PowerShell/Https.png  used on input line 978.
+(pdftex.def)             Requested size: 386.96027pt x 223.90947pt.
+<image/PowerShell/Test/1.png, id=445, 985.281pt x 566.71725pt>
+File: image/PowerShell/Test/1.png Graphic file (type png)
+<use image/PowerShell/Test/1.png>
+Package pdftex.def Info: image/PowerShell/Test/1.png  used on input line 986.
+(pdftex.def)             Requested size: 386.96027pt x 222.57536pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[66 <./image/PowerShell/Https.png> <./image/PowerShell/Test/1.png>]
+<image/PowerShell/Test/2.png, id=452, 986.4855pt x 568.524pt>
+File: image/PowerShell/Test/2.png Graphic file (type png)
+<use image/PowerShell/Test/2.png>
+Package pdftex.def Info: image/PowerShell/Test/2.png  used on input line 993.
+(pdftex.def)             Requested size: 386.96027pt x 223.00735pt.
+<image/PowerShell/Test/3.png, id=453, 987.08775pt x 568.524pt>
+File: image/PowerShell/Test/3.png Graphic file (type png)
+<use image/PowerShell/Test/3.png>
+Package pdftex.def Info: image/PowerShell/Test/3.png  used on input line 999.
+(pdftex.def)             Requested size: 386.96027pt x 222.87723pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[67 <./image/PowerShell/Test/2.png> <./image/PowerShell/Test/3.png>]
+<image/PowerShell/Test/4.png, id=459, 985.88326pt x 567.92175pt>
+File: image/PowerShell/Test/4.png Graphic file (type png)
+<use image/PowerShell/Test/4.png>
+Package pdftex.def Info: image/PowerShell/Test/4.png  used on input line 1006.
+(pdftex.def)             Requested size: 386.96027pt x 222.90977pt.
+<image/PowerShell/Test/5.png, id=460, 986.4855pt x 567.3195pt>
+File: image/PowerShell/Test/5.png Graphic file (type png)
+<use image/PowerShell/Test/5.png>
+Package pdftex.def Info: image/PowerShell/Test/5.png  used on input line 1012.
+(pdftex.def)             Requested size: 386.96027pt x 222.53488pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[68 <./image/PowerShell/Test/4.png> <./image/PowerShell/Test/5.png>]
+<image/PowerShell/Test/6.png, id=466, 987.08775pt x 570.33075pt>
+File: image/PowerShell/Test/6.png Graphic file (type png)
+<use image/PowerShell/Test/6.png>
+Package pdftex.def Info: image/PowerShell/Test/6.png  used on input line 1019.
+(pdftex.def)             Requested size: 386.96027pt x 223.58553pt.
+<image/PowerShell/Test/7.png, id=467, 987.69pt x 569.7285pt>
+File: image/PowerShell/Test/7.png Graphic file (type png)
+<use image/PowerShell/Test/7.png>
+Package pdftex.def Info: image/PowerShell/Test/7.png  used on input line 1025.
+(pdftex.def)             Requested size: 386.96027pt x 223.20164pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[69 <./image/PowerShell/Test/6.png> <./image/PowerShell/Test/7.png>]
+Ch\uhorn \ohorn ng 3.
+[70
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[71] [72
+
+] (main.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.28pt have occurred.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6727 strings out of 475248
+ 114469 string characters out of 5767634
+ 1926785 words of memory out of 5000000
+ 28191 multiletter control sequences out of 15000+600000
+ 578440 words of font info for 67 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,11n,65p,582b,503s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Mie\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi800\vntt12.p
+k> <C:\Users\Mie\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi864\vnbx12.p
+k> <C:\Users\Mie\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi600\vnr12.pk
+> <C:\Users\Mie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm172
+8.pk> <C:\Users\Mie\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi1037\vnbx
+12.pk> <C:\Users\Mie\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi1244\vnb
+x12.pk> <C:\Users\Mie\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi600\vnr
+10.pk> <C:\Users\Mie\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi565\vnr1
+7.pk> <C:\Users\Mie\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi800\vnbx1
+2.pk> <C:\Users\Mie\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi800\vnti1
+2.pk> <C:\Users\Mie\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi1000\vnbx
+12.pk> <C:\Users\Mie\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi700\vnbx
+12.pk> <C:\Users\Mie\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi700\vnr1
+2.pk> <C:\Users\Mie\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi600\vnbxt
+i10.pk> <C:\Users\Mie\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi600\vnb
+x10.pk>
+Output written on main.pdf (73 pages, 9324536 bytes).
+PDF statistics:
+ 1193 PDF objects out of 1200 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 586 words of extra memory for PDF output out of 10000 (max. 10000000)
+
